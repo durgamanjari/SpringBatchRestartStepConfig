@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javasampleapproach.springbatch.restartstep.SpringBatchRestartStepConfigApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.429 sec - in com.javasampleapproach.springbatch.restartstep.SpringBatchRestartStepConfigApplicationTests
